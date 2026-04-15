@@ -1,4 +1,7 @@
 # I2C-Buffer
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Deeplab--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Deeplab-Studio)
+
 A compact and reliable **TCA4307DGKR-based I²C Buffer** board designed to extend and stabilize I²C communication between multiple devices or long cable runs.  
 The board isolates two I²C buses (A and B sides), protecting each side from bus capacitance issues, signal degradation, and hot-swap disturbances.  
 It’s fully compatible with **3.3V and 5V logic levels**, making it ideal for mixed-voltage systems and long-distance I²C communication.
